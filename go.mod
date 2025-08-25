@@ -3,7 +3,7 @@ module github.com/jmelahman/connections-ssh
 go 1.24.3
 
 require (
-	github.com/gdamore/tcell/v2 v2.8.1
+	github.com/gdamore/tcell/v2 v2.9.0
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/jmelahman/connections v0.1.17
 	github.com/spf13/cobra v1.9.1
