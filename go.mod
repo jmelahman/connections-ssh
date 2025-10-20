@@ -5,7 +5,7 @@ go 1.24.3
 require (
 	github.com/gdamore/tcell/v2 v2.9.0
 	github.com/gliderlabs/ssh v0.3.8
-	github.com/jmelahman/connections v0.1.20
+	github.com/jmelahman/connections v0.1.21
 	github.com/spf13/cobra v1.10.1
 )
 
